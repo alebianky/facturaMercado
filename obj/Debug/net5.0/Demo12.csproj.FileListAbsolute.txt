@@ -1,0 +1,16 @@
+D:\Curso C#\Demo12\obj\Debug\net5.0\Demo12.csprojAssemblyReference.cache
+D:\Curso C#\Demo12\obj\Debug\net5.0\Demo12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\Demo12\obj\Debug\net5.0\Demo12.AssemblyInfoInputs.cache
+D:\Curso C#\Demo12\obj\Debug\net5.0\Demo12.AssemblyInfo.cs
+D:\Curso C#\Demo12\obj\Debug\net5.0\Demo12.csproj.CoreCompileInputs.cache
+D:\Curso C#\Demo12\bin\Debug\net5.0\Demo12.exe
+D:\Curso C#\Demo12\bin\Debug\net5.0\Demo12.deps.json
+D:\Curso C#\Demo12\bin\Debug\net5.0\Demo12.runtimeconfig.json
+D:\Curso C#\Demo12\bin\Debug\net5.0\Demo12.runtimeconfig.dev.json
+D:\Curso C#\Demo12\bin\Debug\net5.0\Demo12.dll
+D:\Curso C#\Demo12\bin\Debug\net5.0\ref\Demo12.dll
+D:\Curso C#\Demo12\bin\Debug\net5.0\Demo12.pdb
+D:\Curso C#\Demo12\obj\Debug\net5.0\Demo12.dll
+D:\Curso C#\Demo12\obj\Debug\net5.0\ref\Demo12.dll
+D:\Curso C#\Demo12\obj\Debug\net5.0\Demo12.pdb
+D:\Curso C#\Demo12\obj\Debug\net5.0\Demo12.genruntimeconfig.cache
